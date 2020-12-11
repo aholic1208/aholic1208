@@ -1,6 +1,5 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aholic1208" alt="dat niga" /> </p>
-
-My name is Artour Babaevsky. I grow up in smal farm to have make potatos. Father say "Artour, potato harvest is bad. Need you to have play professional Doto in Amerikanski for make money for head-scarf for babushka."I bring honor to komrade and babushka. Sorry for is not have English. 
+the chatbot repos are actually forks they are not made by me
 <!--
 **aholic1208/aholic1208** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
